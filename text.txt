@@ -1,1 +1,3 @@
 reviewing copy tools in vimtutorial
+
+do I have thousands of files and links and variations and development? :)
