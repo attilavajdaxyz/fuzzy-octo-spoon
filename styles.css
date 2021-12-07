@@ -1,0 +1,16 @@
+:root {
+	--red-text: red;
+}
+
+body {
+	font-size: 20px;
+}
+
+.RedText {
+	background: red;
+}
+
+.blog {
+	font-size: 50px;
+	color: dodgerblue;
+}
